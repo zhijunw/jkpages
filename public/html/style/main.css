@@ -10,6 +10,7 @@ html {
 }
 
 .header {
+    min-width: 1020px;
     height: 60px;
     background: #fff;
     border-bottom: 1px solid #ececec;
@@ -453,6 +454,7 @@ html {
 }
 
 .content {
+    padding-bottom: 20px;
     background: #f9f9f9;
 }
 
@@ -1167,8 +1169,8 @@ html {
 }
 
 .foot {
+    min-width: 1020px;
     position: relative;
-    top: 35px;
     border: 1px solid #e4e4e4;
     background: #fff;
     /*顶部则边栏*/
